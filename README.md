@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Goutham
+- 👀 I’m passionate about technology and always eager to learn about the latest trends and innovations.
+- 🌱 I’m currently diving into Data Analytics and Full Stack Development, among other tech fields.
+- 📫 Reach me at:
+  - Email: gouthaman12345@gmail.com
+  - Phone: +91 9003617652
